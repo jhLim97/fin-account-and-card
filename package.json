@@ -1,0 +1,23 @@
+{
+  "name": "fin-account-and-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fin_account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhLim97/fin-account-and-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhLim97/fin-account-and-card/issues"
+  },
+  "homepage": "https://github.com/jhLim97/fin-account-and-card#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
